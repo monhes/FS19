@@ -1,0 +1,59 @@
+﻿<missions>
+    <mission type="mow_bale" reward="11164" status="0" success="false">
+        <field id="9" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="799.636475" spawnedVehicles="false" growthState="4" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="GRASS"/>
+        <bale sellPoint="9" fillTypeName="SILAGE" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" activeId="3" reward="32355" status="1" success="false" farmId="5">
+        <field id="13" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="9" vehicleUseCost="1593.273560" spawnedVehicles="true" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="POTATO"/>
+        <harvest sellPoint="25" expectedLiters="379628.062500" depositedLiters="174902.906250"/>
+    </mission>
+    <mission type="mow_bale" reward="6858" status="0" success="false">
+        <field id="1" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="540.383972" spawnedVehicles="false" growthState="4" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="GRASS"/>
+        <bale sellPoint="9" fillTypeName="DRYGRASS_WINDROW" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="23704" status="0" success="false">
+        <field id="12" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="4" vehicleUseCost="1167.282959" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="SUGARBEET"/>
+        <harvest sellPoint="49" expectedLiters="389243.968750" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="1289" status="0" success="false">
+        <field id="14" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="2" vehicleUseCost="203.170502" growthState="5" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="CANOLA"/>
+        <harvest sellPoint="49" expectedLiters="5438.717773" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="447" status="0" success="false">
+        <field id="24" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="7" vehicleUseCost="70.473000" growthState="5" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="MAIZE"/>
+        <harvest sellPoint="49" expectedLiters="3366.441162" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="fertilize" reward="16810" status="0" success="false">
+        <field id="11" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="2401.431396" growthState="1" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="WHEAT"/>
+    </mission>
+    <mission type="transport" reward="2476" status="0" success="false" timeLeft="34199455" config="RANCH LUGGAGE DELIVERY" pickupTrigger="TRANSPORT05" dropoffTrigger="TRANSPORT08" objectFilename="data/objects/pallets/missions/transportPalletSuitcases.i3d" numObjects="5"/>
+    <mission type="harvest" reward="25708" status="0" success="false">
+        <field id="8" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="4051.112061" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="BARLEY"/>
+        <harvest sellPoint="5" expectedLiters="224369.281250" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="546" status="0" success="false">
+        <field id="26" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="7" vehicleUseCost="86.177002" growthState="5" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="SUNFLOWER"/>
+        <harvest sellPoint="25" expectedLiters="2326.778809" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="3363" status="0" success="false">
+        <field id="3" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="8" vehicleUseCost="529.951477" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="SUNFLOWER"/>
+        <harvest sellPoint="25" expectedLiters="15898.543945" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="transport" reward="2515" status="0" success="false" timeLeft="103205659" config="RANCH LUGGAGE DELIVERY" pickupTrigger="TRANSPORT04" dropoffTrigger="TRANSPORT09" objectFilename="data/objects/pallets/missions/transportPalletSuitcases.i3d" numObjects="5"/>
+    <mission type="cultivate" reward="6842" status="0" success="false">
+        <field id="5" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="4" vehicleUseCost="2695.335449" limeFactor="1.000000" weedFactor="1.000000"/>
+    </mission>
+    <mission type="cultivate" reward="214" status="0" success="false">
+        <field id="25" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="3" vehicleUseCost="84.318001" limeFactor="1.000000" weedFactor="1.000000"/>
+    </mission>
+    <mission type="plow" reward="2246" status="0" success="false">
+        <field id="16" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="3" vehicleGroup="2" vehicleUseCost="379.326996" limeFactor="0.000000" weedFactor="1.000000"/>
+    </mission>
+    <mission type="harvest" reward="10172" status="0" success="false">
+        <field id="17" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="10" vehicleUseCost="500.922485" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="POTATO"/>
+        <harvest sellPoint="25" expectedLiters="107418.976563" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="fertilize" reward="6991" status="0" success="false">
+        <field id="6" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="998.718506" growthState="2" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="SOYBEAN"/>
+    </mission>
+</missions>
